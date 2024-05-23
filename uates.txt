@@ -1024,31 +1024,31 @@
 "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-J330FN/J330FNXXU4CTH2 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; arm; Android 5.1.1; SM-J105H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 YaApp_Android/20.125.1 YaSearchBrowser/20.125.1 BroPP/1.0 SA/3 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI MediaPad T1 7.0 3G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36",
-"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Mobile Safari/537.36", OPR/74.0.3911.203 (Edition TRI)
+"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Mobile Safari/537.36 OPR/74.0.3911.203",
 "Mozilla/5.0 (Linux; Android 9; ZTE Blade A3 2020RU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; arm_64; Android 10; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 YaApp_Android/20.123.1 YaSearchBrowser/20.123.1 BroPP/1.0 SA/3 TA/7.1 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; arm_64; Android 10; HMA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 YaApp_Android/20.125.0 YaSearchBrowser/20.125.0 BroPP/1.0 SA/3 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; arm_64; Android 10; HMA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 YaApp_Android/20.125.0 YaSearchBrowser/20.125.0 BroPP/1.0 SA/3 TA/7.1 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; arm_64; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaBrowser/21.2.0.223.00 SA/3 TA/7.1 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; U; Android 7.0; Meizu M6s Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36", OPR/54.0.2254.56148
-"Mozilla/5.0 (Linux; Android 9; vivo 1915) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36", OPR/62.3.3146.57763
+"Mozilla/5.0 (Linux; U; Android 7.0; Meizu M6s Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 OPR/54.0.2254.56148",
+"Mozilla/5.0 (Linux; Android 9; vivo 1915) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 OPR/62.3.3146.57763",
 "Mozilla/5.0 (Linux; Android 10; SM-T590 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 5.12; Samsung kt961 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.86 Mobile Safari/537.36",
 "Dalvik/2.1.0 (Linux; U; Android 11; M2007J3SY Build/RKQ1.200826.002)",
 "Mozilla/5.0 (Linux; Android 5.1; Force F500 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36",
-"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Mobile Safari/537.36", OPR/74.0.3911.203 (Edition utorrent)",
+"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Mobile Safari/537.36 OPR/74.0.3911.203",
 "Mozilla/5.0 (Linux; Android 10; RMX2111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG-SM-G928A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
 "Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html) tands-prod-eng.hlfs-prod---sieve.hlfs-rest_client/1615250334-10",
 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",/keF7mEmx-53
 "Mozilla/5.0 (Linux; Android 7.1.1; ZTE A2017U Build/NMF26V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36",
-"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",/GIMDDyWI-50",
+"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 5.1; HTC Desire 625) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36",
-"Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Mobile Safari/537.36", Edg/89.0.774.48",
+"Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Mobile Safari/537.36 Edg/89.0.774.48",
 "Mozilla/5.0 (Linux; Android 10; RMX1821) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 7.1.1; Z851M Build/NMF26V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36",
-"Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html) tands-prod-eng.hlfs-prod---sieve.hlfs-rest_client/1615256374-10
-"Mozilla/5.0 (Linux; Android 7.1.1; SM-J510GN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36", OPR/57.2.2830.52651
+"Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html) tands-prod-eng.hlfs-prod---sieve.hlfs-rest_client/1615256374-10",
+"Mozilla/5.0 (Linux; Android 7.1.1; SM-J510GN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36 OPR/57.2.2830.52651",
 "Mozilla/5.0 (Linux; Android 7.1.1; 1713-A01 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.82 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 10; SM-S102DL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 null Firefox/86.0",
@@ -1080,17 +1080,17 @@
 "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 9; GS110 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 8.1.0; G008) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 6.0.1; ACON1-G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36", OPR/62.3.3146.57763
+"Mozilla/5.0 (Linux; Android 6.0.1; ACON1-G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 OPR/62.3.3146.57763",
 "Mozilla/5.0 (Linux; Android 10; RMX2170) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 10; VOG-L29 Build/HUAWEIVOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36", OPT/2.9
+"Mozilla/5.0 (Linux; Android 10; VOG-L29 Build/HUAWEIVOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36 OPT/2.9",
 "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 10; POCO F1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Mobile Safari/537.36",
 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; U; Android 10; M2007J20CI Build/QKQ1.200512.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.86 Mobile Safari/537.36", OPR/54.0.2254.56148
+"Mozilla/5.0 (Linux; U; Android 10; M2007J20CI Build/QKQ1.200512.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.86 Mobile Safari/537.36 OPR/54.0.2254.56148",
 "Mozilla/5.0 (Linux; Android 9; CMR-AL19) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2843.52 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 9; TAB-101) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; U; Android 7.1.2; HP 15 Notebook PC Build/ABOS10AF; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.100 Mobile Safari/537.36 OPR/52.2.2254.54723
+"Mozilla/5.0 (Linux; U; Android 7.1.2; HP 15 Notebook PC Build/ABOS10AF; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.100 Mobile Safari/537.36 OPR/52.2.2254.54723",
 "Mozilla/5.0 (Linux; Android 8.1.0; Tesla_SP9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 11; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 5.0; K010E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36",
